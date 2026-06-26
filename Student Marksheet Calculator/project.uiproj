@@ -1,0 +1,6 @@
+{
+  "Name": "Student Marksheet Calculator",
+  "ProjectType": "Process",
+  "Description": "Calculate total and percentage using Excel data \n",
+  "MainFile": "Main.xaml"
+}

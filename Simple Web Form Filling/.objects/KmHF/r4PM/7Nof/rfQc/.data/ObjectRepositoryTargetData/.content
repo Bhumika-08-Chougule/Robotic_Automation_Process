@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="TGzYGJ17J0aurME3n7KYvQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="demoqa.com/automation-practice-form" DesignTimeRectangle="644, 328, 791, 32" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl idx='2' parentid='genterWrapper' tag='DIV' /&gt;" Guid="ebd2232c-854d-4a11-b6e6-924f99ad424a" ScopeSelectorArgument="&lt;html app='msedge.exe' title='demosite' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="2c98563deb0b1d18a6fc096ec2db2a65.jpg" xmlns="">0OtIi-pQmV0608OfapxuGcA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

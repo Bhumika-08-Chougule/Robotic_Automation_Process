@@ -1,0 +1,6 @@
+{
+  "Name": "Simple Web Form Filling",
+  "ProjectType": "Process",
+  "Description": "Open website\nFill registration form automatically ",
+  "MainFile": "Main.xaml"
+}

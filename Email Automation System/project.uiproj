@@ -1,0 +1,6 @@
+{
+  "Name": "Email Automation System",
+  "ProjectType": "Process",
+  "Description": "Read email IDs from Excel\nSend automated customized emails ",
+  "MainFile": "Main.xaml"
+}

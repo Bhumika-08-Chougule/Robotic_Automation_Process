@@ -1,0 +1,6 @@
+{
+  "Name": "Calculator Automation",
+  "ProjectType": "Process",
+  "Description": "Perform arithmetic operations automatically using Windows calculator ",
+  "MainFile": "Main.xaml"
+}

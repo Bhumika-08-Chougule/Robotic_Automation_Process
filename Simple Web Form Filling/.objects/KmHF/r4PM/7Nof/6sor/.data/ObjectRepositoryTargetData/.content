@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="qsf9aaVfo0a-D5rNk9lXXw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="demoqa.com/automation-practice-form" DesignTimeRectangle="659, 647, 761, 167" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='currentAddress' tag='TEXTAREA' /&gt;" Guid="158ddeb9-0f27-4dfb-bb37-1a064e202700" ScopeSelectorArgument="&lt;html app='msedge.exe' title='demosite' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="0a2d07035d5c0003345d3cc7a436433f.jpg" xmlns="">0CvQYT3JzUE6FTpyXlWUvEQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

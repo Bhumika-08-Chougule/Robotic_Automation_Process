@@ -1,0 +1,6 @@
+{
+  "Name": "Folder Creation Automation",
+  "ProjectType": "Process",
+  "Description": "Create folders and text files automatically ",
+  "MainFile": "Main.xaml"
+}

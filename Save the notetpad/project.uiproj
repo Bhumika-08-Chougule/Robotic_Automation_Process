@@ -1,0 +1,6 @@
+{
+  "Name": "Save the notetpad",
+  "ProjectType": "Process",
+  "Description": "Blank Process",
+  "MainFile": "Main.xaml"
+}

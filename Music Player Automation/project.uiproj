@@ -1,0 +1,6 @@
+{
+  "Name": "Music Player Automation",
+  "ProjectType": "Process",
+  "Description": "Play or pause the music\r\n",
+  "MainFile": "Main.xaml"
+}

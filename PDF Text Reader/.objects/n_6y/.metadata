@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Bhumika - Notepad",
+  "Type": "App",
+  "Id": "n_6yRL2_PkKC3PIxf6K2JQ",
+  "Reference": "8Ju_P22BiEO-f0qaSieotA/n_6yRL2_PkKC3PIxf6K2JQ",
+  "Created": "2026-05-31T05:50:27.5166087Z",
+  "Updated": "2026-05-31T05:50:27.5166087Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.31.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

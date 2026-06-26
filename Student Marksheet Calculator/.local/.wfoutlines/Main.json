@@ -1,0 +1,1 @@
+{"model":{"path":"Main.xaml","arguments":[],"outline":{"nodeName":"Activity","items":[{"displayName":"Main Sequence","nodeName":"Sequence","items":[{"nodeName":"Assign"},{"displayName":"Read Range Workbook","nodeName":"ReadRange"}]}]}},"lastModified":"2026-05-31T06:42:14.37086Z"}

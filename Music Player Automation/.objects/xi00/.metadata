@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Media Player",
+  "Type": "App",
+  "Id": "xi00z0ADEE2jKQxF23qtcg",
+  "Reference": "02myPzJGgUmJe3b1z-WnlA/xi00z0ADEE2jKQxF23qtcg",
+  "Created": "2026-05-31T11:07:16.4308887Z",
+  "Updated": "2026-05-31T11:07:16.4308887Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.31.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "Name": "Excel Automation",
+  "ProjectType": "Process",
+  "Description": "Read student data\nWrite data into another Excel sheet ",
+  "MainFile": "Main.xaml"
+}

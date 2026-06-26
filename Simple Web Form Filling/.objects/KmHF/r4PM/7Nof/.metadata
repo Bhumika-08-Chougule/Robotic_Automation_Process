@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge demosite",
+  "Type": "Screen",
+  "Id": "7Nofv_bxwkGyZ-d6LNL3iQ",
+  "Reference": "NeA3MwkEKkiGCvAoArhpGA/7Nofv_bxwkGyZ-d6LNL3iQ",
+  "ParentRef": "NeA3MwkEKkiGCvAoArhpGA/r4PMpoT87E6qnpJ6otXcPw",
+  "Created": "2026-05-31T06:15:57.208605Z",
+  "Updated": "2026-05-31T06:15:57.208605Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.31.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

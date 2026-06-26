@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="FXcJfrNEkEGaXKd5OvWZYQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="617, 917, 63, 62" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;uia automationid='ControlPanelGrid' cls='LandmarkTarget' /&gt;&lt;uia automationid='MTCPlayPauseButton.Play' cls='AppBarButton' name='Play' /&gt;" Guid="7c38a75d-6319-4b57-b3d9-319b6eb26aa8" ScopeSelectorArgument="&lt;wnd app='applicationframehost.exe' appid='Microsoft.ZuneMusic_8wekyb3d8bbwe!Microsoft.ZuneMusic' title='Media Player' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="50160bce03bef20b56a23b42af3748e9.jpg" xmlns="">07clJp1gC1EaKSJ4XAH4jPQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

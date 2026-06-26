@@ -1,0 +1,6 @@
+{
+  "Name": "Date and Time Display Bot",
+  "ProjectType": "Process",
+  "Description": "Display current system date and time\nSave into text file ",
+  "MainFile": "Main.xaml"
+}

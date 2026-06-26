@@ -1,0 +1,6 @@
+{
+  "Name": "PDF Text Reader",
+  "ProjectType": "Process",
+  "Description": "Read text from PDF\nDisplay extracted content ",
+  "MainFile": "Main.xaml"
+}

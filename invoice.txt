@@ -1,0 +1,3 @@
+invoiceNumber: INV001
+customerName : savi
+amount : 500000

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Bhumika",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "l3xNq5GgSEWeR93yfzMkEA",
+  "Reference": "8Ju_P22BiEO-f0qaSieotA/l3xNq5GgSEWeR93yfzMkEA",
+  "ParentRef": "8Ju_P22BiEO-f0qaSieotA/znrWep3R1kulnPlhrtadrw",
+  "Created": "2026-05-31T05:50:43.640255Z",
+  "Updated": "2026-05-31T05:50:43.640255Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.31.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

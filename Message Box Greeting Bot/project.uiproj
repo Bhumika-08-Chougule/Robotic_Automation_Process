@@ -1,0 +1,6 @@
+{
+  "Name": "Message Box Greeting Bot",
+  "ProjectType": "Process",
+  "Description": "Message Box Greeting Bot\nAsk user name\nDisplay personalized greeting message \n",
+  "MainFile": "Main.xaml"
+}
